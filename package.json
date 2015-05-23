@@ -1,6 +1,6 @@
 {
   "name": "gulp-uncomment-it",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Uncomment html, js or css",
   "license": "MIT",
   "repository": "stevemao/gulp-uncomment-it",
