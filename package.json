@@ -1,0 +1,42 @@
+{
+  "name": "gulp-uncomment-it",
+  "version": "0.0.0",
+  "description": "Uncomment html, js or css",
+  "license": "MIT",
+  "repository": "stevemao/gulp-uncomment-it",
+  "author": {
+    "name": "Steve Mao",
+    "email": "maochenyan@gmail.com",
+    "url": "https://github.com/stevemao"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "uncomment-it",
+    "uncomment",
+    "css",
+    "html",
+    "js",
+    "comment",
+    "comments",
+    "block"
+  ],
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "gulp-util": "^3.0.4",
+    "object-assign": "^2.0.0",
+    "uncomment-it": "^1.0.0",
+    "through2": "^0.6.5"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
